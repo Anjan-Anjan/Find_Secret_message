@@ -1,4 +1,4 @@
-#project: find secret message like meeting time , meeting date, meeting place from a text file
+#project: find secret message like meeting time, meeting place from a text file
 
 try:
     li=list()
